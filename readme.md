@@ -2,7 +2,7 @@
 
 ### This repo contains my whole assignmets collection for this purticular course so everything can be accessed in one link
 
-## Name : Vansh Chauhan
+## Name : Kavish Jain
 
 ## Assignment 1 Completed...
 
